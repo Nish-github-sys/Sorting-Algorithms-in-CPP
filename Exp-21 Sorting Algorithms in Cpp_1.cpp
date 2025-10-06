@@ -38,3 +38,14 @@ int main() {
 
     return 0;
 }
+
+
+/*==========OUTPUTS==========
+Enter the number of elements in the array: 5
+Enter 5 elements: 8
+5
+2
+7
+9
+Sorted array: 2 5 7 8 9 
+*/
